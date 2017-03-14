@@ -1,3 +1,3 @@
 # hello-world
-This is my first project
+This is the first project
 Trying to learn how to use Github
